@@ -1,0 +1,32 @@
+
+body {
+    font-family: 'inter', sans-serif;
+    background-color: grey;
+    text-align: center;
+}
+
+.container {
+    max-width: 200px;
+    margin: 80px auto 0;
+    background-color: peachpuff;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+img {
+    border-radius: 0.675rem;
+}
+
+p {
+    color: black;
+    font-size: 10.5px;
+    text-align: center;
+}
+
+h2 {
+    color: black;
+    font-size: 12px;
+    line-height: 1.275;
+    text-align: center;
+
+}
